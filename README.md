@@ -1,10 +1,15 @@
-# Project Name
+# Product Listing page
 
-A brief description of what your Next.js project does and its purpose.
+A brief description of what Next.js project does and its purpose.
+
+## About 
+
+I have Buit this project For The Assignment Project Given where i have to use mock Api like [Fake Store API](https://fakestoreapi.com/) which use to get Data from Api and using it I have created a Product list their price content details images and their ratings also i have implemented a searchBar for products Which can help to track the products.
 
 ## Table of Contents
 
-- [Project Name](#project-name)
+- [Product Listing page](#product-listing-page)
+  - [About](#about)
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
     - [Prerequisites](#prerequisites)
@@ -31,8 +36,8 @@ Make sure you have the following installed:
 1. **Clone the repository**
 
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/my-username/my-repo-name.git
+    cd my-repo-name
     ```
 
 2. **Install dependencies**
@@ -47,6 +52,11 @@ Make sure you have the following installed:
 
     ```bash
     yarn install
+    ```
+    Install reacticons
+
+    ```bash
+    npm i react-icons
     ```
 
 3. **Run the development server**
