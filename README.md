@@ -4,14 +4,14 @@ A brief description of what Next.js project does and its purpose.
 
 ## About 
 
-I have Buit this project For The Assignment Project Given where i have to use mock Api like [Fake Store API](https://fakestoreapi.com/) which use to get Data from Api and using it I have created a Product list their price content details images and their ratings also i have implemented a searchBar for products Which can help to track the products.
+I have Buit this project For The Assignment Project Given where i have to use mock Api like [Fake Store API](https://fakestoreapi.com/) which use to get Data from Api and using it I have created a Product list their price content details images and their ratings also i have implemented a searchBar for products Which can help to track the products. tailwind and reacticons used For better Ul and responsiveness for the page.💯
 
 ## Table of Contents
 
 - [Product Listing page](#product-listing-page)
   - [About](#about)
   - [Table of Contents](#table-of-contents)
-  - [Installation](#installation)
+  - [Installation :  👨‍💻](#installation---)
     - [Prerequisites](#prerequisites)
     - [Steps](#steps)
   - [Usage](#usage)
@@ -20,7 +20,7 @@ I have Buit this project For The Assignment Project Given where i have to use mo
     - [Mock API](#mock-api)
   - [points to be noted 👍](#points-to-be-noted-)
 
-## Installation
+## Installation :  👨‍💻
 
 Follow these steps to install and set up the project locally.
 
@@ -75,7 +75,7 @@ Make sure you have the following installed:
 
 ## Usage
 
-### Tailwind CSS
+### Tailwind CSS 
 
 Tailwind CSS is already configured in this project. You can start using it in your components like this:
 
