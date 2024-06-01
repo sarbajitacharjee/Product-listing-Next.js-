@@ -1,18 +1,16 @@
 "use client";
-import Image from "next/image";
+
 
 function Details({ product, onClose }) {
   return (
     <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center">
       <div className="bg-white mx-2 p-6 rounded shadow-lg flex flex-col md:flex-row gap-10 sm:w-2/3 lg:w-2/4">
-        <Image
-          src={product.image}
-          alt={product.title}
-          width={500}
-          height={500}
-          quality={75}
-          className="md:w-52 md:h-64 w-full h-52 md:object-cover"
-        />
+      <img
+        className="h-60 w-full md:h-48 mb-4"
+        src={product.image}
+        alt={product.title}
+        
+      />
         <div>
           <h2 className="text-2xl text-semibold font-semibold mb-4">
             {product.title}
