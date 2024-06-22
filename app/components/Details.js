@@ -1,5 +1,6 @@
 "use client";
 
+// Product Listed Below
 
 function Details({ product, onClose }) {
   return (
